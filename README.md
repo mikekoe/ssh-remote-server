@@ -13,5 +13,5 @@ ssh -i <path-to-private-key> user@server-ip
 ```
 **(optional)** Install and configure **Fail2Ban** to prevent brute-force login attempts.
 
-
+Project URL: https://roadmap.sh/projects/ssh-remote-server-setup
 
